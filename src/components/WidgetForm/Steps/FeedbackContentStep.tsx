@@ -49,6 +49,7 @@ const FeedbackContentStep: React.FC<FeedbackContentStepProps> = (
             weight="bold"
             className="h-4 w-4"
           />
+
         </button>
 
         <span className="text-xl leading-6 flex items-center gap-2">
