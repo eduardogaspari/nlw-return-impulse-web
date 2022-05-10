@@ -33,8 +33,6 @@ const FeedbackContentStep: React.FC<FeedbackContentStepProps> = (
       screenshot,
     });
 
-    console.log(screenshot)
-
     setIsSendingFeedback(false);
     onFeedbackSent();
   };
